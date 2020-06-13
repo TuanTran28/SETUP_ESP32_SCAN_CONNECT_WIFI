@@ -1,0 +1,10 @@
+D:\6_TuanTran\2_Project\1_ESP32_CSharp\Setup_Wifi\Setup_Wifi\bin\Debug\Setup_Wifi.exe.config
+D:\6_TuanTran\2_Project\1_ESP32_CSharp\1_Setup_Wifi\Setup_Wifi\bin\Debug\Setup_Wifi.exe.config
+D:\6_TuanTran\2_Project\1_ESP32_CSharp\1_Setup_Wifi\Setup_Wifi\bin\Debug\Setup_Wifi.exe
+D:\6_TuanTran\2_Project\1_ESP32_CSharp\1_Setup_Wifi\Setup_Wifi\bin\Debug\Setup_Wifi.pdb
+D:\6_TuanTran\2_Project\1_ESP32_CSharp\1_Setup_Wifi\Setup_Wifi\obj\Debug\Setup_Wifi.Form1.resources
+D:\6_TuanTran\2_Project\1_ESP32_CSharp\1_Setup_Wifi\Setup_Wifi\obj\Debug\Setup_Wifi.Properties.Resources.resources
+D:\6_TuanTran\2_Project\1_ESP32_CSharp\1_Setup_Wifi\Setup_Wifi\obj\Debug\Setup_Wifi.csproj.GenerateResource.Cache
+D:\6_TuanTran\2_Project\1_ESP32_CSharp\1_Setup_Wifi\Setup_Wifi\obj\Debug\Setup_Wifi.exe
+D:\6_TuanTran\2_Project\1_ESP32_CSharp\1_Setup_Wifi\Setup_Wifi\obj\Debug\Setup_Wifi.pdb
+D:\6_TuanTran\2_Project\1_ESP32_CSharp\1_Setup_Wifi\Setup_Wifi\obj\Debug\Setup_Wifi.csprojResolveAssemblyReference.cache
